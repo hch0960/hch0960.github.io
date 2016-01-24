@@ -1,0 +1,117 @@
+body {
+    background-color: #F7E726
+}
+
+.title {
+    color: #EB9534;
+}
+
+.wrap {
+    position: relative;
+}
+
+.flash {
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #E45E3A;
+    top: -50px;
+    left: 450px;
+    text-align: center;
+    padding-top: 100px;
+    color: #F7FF19;
+    font-family: cursive, Geneva, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.Content {
+    position: absolute;
+    height: 130px;
+    width: 220px;
+    border-radius: 50%;
+    background-color: #9B5400;
+    top: 180px;
+    left: 320px;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 65px;
+    font-family: Verdana, sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.Hello {
+    position: absolute;
+    height: 320px;
+    width: 450px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    top: 100px;
+    left: 530px;
+    margin: auto;
+    text-align: center;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 100px;
+    color: #9B5400;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+}
+
+.pika {
+    position: absolute;
+    height: 120px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    top: 40px;
+    left: 820px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 40px;
+}
+
+.fb {
+    position: fixed;
+    height: 70px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #9B5400;
+    top: 450px;
+    left: 1000px;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    font-family: Trebuchet MS;
+    color: #FFFFFF;
+}
+
+.created {
+    position: absolute;
+    height: 70px;
+    width: 140px;
+    border-radius: 50%;
+    background-color: #E45E3A;
+    top: 510px;
+    left: 480px;
+    margin: auto;
+    text-align: center;
+    padding-top: 45px;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    color: #FEEC6E;
+    font-size: 10px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+
+/*margin:auto ;text-align:center*/
