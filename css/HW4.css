@@ -113,5 +113,10 @@ h2 {
     font-size: 24px;
 }
 
+.home {
+    position: absolute;
+    top: 700px;
+}
+
 
 /*margin:auto ;text-align:center*/
