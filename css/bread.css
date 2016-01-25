@@ -1,38 +1,97 @@
-ul li {
-    float: left;
-    display: block;
-    background-color: #9A5927;
-    width: 150px;
-    text-align: center;
-    line-height: 50px;
-    font-size: 14pt;
-}
-
-ul li a {
-    color: #F9F59A;
-    text-decoration: none;
-}
-
-ul li ul {
-    display: none;
-}
-
-ul li ul {
-    text-decoration: none;
-}
-
-ul li:hover ul {
-    display: block;
-}
-
-ul li:hover {
-    background-color: #ba7947;
-}
-
-ul li ul:hover {
-    background-color: #F9F59A;
-}
-
-ul li ul li:hover {
-    color: #9A5927
-}
+                               .list {
+                                   float: left;
+                                   background-color: #9A5927;
+                               }
+                               
+                               ul li {
+                                   float: left;
+                                   display: block;
+                                   background-color: #9A5927;
+                                   width: 150px;
+                                   text-align: center;
+                                   line-height: 50px;
+                                   font-size: 14pt;
+                               }
+                               
+                               ul li a {
+                                   color: #F9F59A;
+                                   text-decoration: none;
+                               }
+                               
+                               ul li ul {
+                                   display: none;
+                               }
+                               
+                               ul li ul {
+                                   text-decoration: none;
+                               }
+                               
+                               ul li:hover ul {
+                                   display: block;
+                               }
+                               
+                               ul li:hover {
+                                   background-color: #ba7947;
+                               }
+                               
+                               ul li ul:hover {
+                                   background-color: #F9F59A;
+                               }
+                               
+                               ul li ul li:hover {
+                                   color: #9A5927
+                               }
+                               
+                               img {
+                                   display: block;
+                                   margin: auto;
+                               }
+                               
+                               .pic {
+                                   margin: auto;
+                                   width: 1250px;
+                                   display: block;
+                                   text-align: center;
+                               }
+                               
+                               #good {
+                                   float: left;
+                                   width: 390px;
+                                   background-color: #FFF5C7;
+                                   margin-right: 40px;
+                               }
+                               
+                               #bad {
+                                   float: right;
+                                   width: 390px;
+                                   background-color: #FFF5C7;
+                               }
+                               
+                               #feature {
+                                   float: left;
+                                   width: 390px;
+                                   background-color: #FFF5C7;
+                               }
+                               
+                               .home {
+                                   clear: both;
+                                   text-align: center;
+                               }
+                               
+                               h2 {
+                                   width: 400px;
+                                   height: 60px;
+                                   font-size: 20px;
+                                   border-style: dashed 3px;
+                                   border-color: #643400;
+                                   padding-top: 20px;
+                               }
+                               
+                               h4 {
+                                   text-align: center;
+                                   color: #955313;
+                               }
+                               
+                               p {
+                                   text-align: left;
+                               }
