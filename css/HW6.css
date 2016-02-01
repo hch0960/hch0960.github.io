@@ -2,9 +2,12 @@
                                                    box-sizing: border-box;
                                                }
                                                
+                                               .list {
+                                                   float: left;
+                                               }
+                                               
                                                ul li {
                                                    float: left;
-                                                   display: block;
                                                    background-color: #000000;
                                                    width: 150px;
                                                    text-align: center;
